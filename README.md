@@ -1,3 +1,6 @@
+    This is a wordle solver that outputs possible words to guess based on an input done in Java.
+    
+    
     TO USE: UNDERSTANDING HOW TO EDIT JAVA. GO INTO MAIN METHOD, AND EDIT THE STUFF AS FOLLOWING FOR THE p.solve(...)
     ALSO, USE WITH WORD WRAP OFF AS WORDS ARE HARD CODED INTO FILE.
     
